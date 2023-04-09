@@ -3,7 +3,7 @@
 
 
 
-Currently, I am doing defferent courses to add more skills to my knowlage. 
+Currently, I am doing defferent courses to add more skills to my knowledge. 
 
 - 🎓 Studied BS in Computer Science and Engineering at **North South University**
 
@@ -15,6 +15,3 @@ Currently, I am doing defferent courses to add more skills to my knowlage.
 
 - 📫 Contect me **diptavoumick.18@gmail.com**
  
-
-
-![Profile views](https://gpvc.arturio.dev/dipta2178) 
