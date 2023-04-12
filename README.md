@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dipta Voumick</h1>
-<h3 align="center">A passionate Researcher( Machine Learning, Deep Learning ) and Web Devloper from Bangladesh</h3>
+<h3 align="center">A passionate Researcher( Machine Learning, Deep Learning ) and Web Developer from Bangladesh</h3>
 
 
 
