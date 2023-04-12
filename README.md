@@ -11,7 +11,7 @@ Currently, I am doing defferent courses to add more skills to my knowledge.
 
 - 🌱 I’m currently learning details about **Python**
 
-- 💬 Ask me about **HTML, CSS, PHP, Java**
+- 💬 Ask me about **HTML, CSS, PHP, JAVA, C, C++**
 
 - 📫 Contect me **diptavoumick.18@gmail.com**
  
