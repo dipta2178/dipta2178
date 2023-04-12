@@ -9,9 +9,9 @@ Currently, I am doing defferent courses to add more skills to my knowledge.
 
 - 🏠 Lives in **Dhaka, Bangladesh**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning details about **Python**
 
-- 💬 Ask me about **HTML, CSS, PHP**
+- 💬 Ask me about **HTML, CSS, PHP, Java**
 
 - 📫 Contect me **diptavoumick.18@gmail.com**
  
